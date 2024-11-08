@@ -1,0 +1,9 @@
+{
+    "bundles": [
+      {
+        "name": "model",
+        "version": "1.0",
+        "url": "https://raw.githubusercontent.com/cky0314/MET4337_AssetsBundles/main/AssetBundles/mybundle"
+      }
+    ]
+  }
